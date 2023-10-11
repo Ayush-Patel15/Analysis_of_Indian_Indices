@@ -6,7 +6,7 @@ Welcome to the "Indian Indices Analysis" repository! This repository hosts code 
 
 In this repository, we dive into the performance analysis of key Indian indices, including Nifty 50, Bank Nifty, sectoral indices, and more. Our projects focus on understanding market trends, volatility, statistical measures, and algorithmic trading possibilities.
 
-## Key Projects
+## Projects
 
 1. **Nifty & Bank Nifty Comparative Analysis w.r.t. Inflation**:
    - Compare the returns of Nifty 50 and Bank Nifty over the past 8 years (Apr 2015 - Mar 2023).
@@ -18,6 +18,10 @@ In this repository, we dive into the performance analysis of key Indian indices,
 
 3. **Nifty 50 Daily Returns Analysis**:
    - Examine the daily returns of Nifty 50 over the last 5 years (Apr 2018 - Mar 2023).
+   - Visualize the distribution of daily returns and calculate kurtosis and skewness.
+
+5. **Bank Nifty Daily Returns Analysis**:
+   - Examine the daily returns of Bank Nifty over the last 5 years (Apr 2018 - Mar 2023).
    - Visualize the distribution of daily returns and calculate kurtosis and skewness.
 
 ## Project Structure
