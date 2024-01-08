@@ -20,9 +20,13 @@ In this repository, we dive into the performance analysis of key Indian indices,
    - Examine the daily returns of Nifty 50 over the last 5 years (Apr 2018 - Mar 2023).
    - Visualize the distribution of daily returns and calculate kurtosis and skewness.
 
-5. **Bank Nifty Daily Returns Analysis**:
+4. **Bank Nifty Daily Returns Analysis**:
    - Examine the daily returns of Bank Nifty over the last 5 years (Apr 2018 - Mar 2023).
    - Visualize the distribution of daily returns and calculate kurtosis and skewness.
+
+5. **Heatmap of Nifty 50 & BankNifty Monthly Returns**:
+   - Examine the monthly returns of Nifty 50 & Bank Nifty over the last 5 years (Jan 2018 - Dec 2023).
+   - Visualize the distribution of monthly returns in the form of a heatmap.
 
 ## Project Structure
 
