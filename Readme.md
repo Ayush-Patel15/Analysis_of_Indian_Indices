@@ -28,6 +28,10 @@ In this repository, we dive into the performance analysis of key Indian indices,
    - Examine the monthly returns of Nifty 50 & Bank Nifty over the last 5 years (Jan 2018 - Dec 2023).
    - Visualize the distribution of monthly returns in the form of a heatmap.
 
+6. **Bank Nifty Gap Up vs Gap Down Movement**:
+   - Analyze the movement of the indices on the GapUp and GapDown days.
+   - Calculate the data points like the `GapUp-Days`, `GapDown-Days`, `Closing_above_the_open_pct`, and etc.
+
 ## Project Structure
 
 - Each project is organized into its own directory/file within this repository.
